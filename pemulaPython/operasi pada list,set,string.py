@@ -64,3 +64,8 @@ data = ['shirt', 'white', 'L'] # From List
 apparel, color, size = data
 data = ('shirt', 'white', 'L')  # From Tuple
 apparel, color, size = data
+
+
+a = 6
+b = 4
+print("Hasilnya " + str (a + b) + "6" * 3)
